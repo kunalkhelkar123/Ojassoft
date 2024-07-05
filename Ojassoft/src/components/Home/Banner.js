@@ -29,8 +29,10 @@ const Banner = () => {
                       Work smarter, together.
                     </h1>
 
-                    <h4><b>Leading Hospital Management
-                    Software in India</b>
+                    <h4><p  data-aos="fade-up"
+                      data-aos-delay="200"
+                      data-aos-duration="1200"><b className="fs-5">Leading Hospital Management
+                    Software in India</b></p>
                     </h4>
                     <p
                       data-aos="fade-up"
