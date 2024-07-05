@@ -23,7 +23,7 @@ export default function Page() {
         <MainContent />
 
         {/* RelatedProducts */}
-        <RelatedProducts />
+        // <RelatedProducts />
       </section>
 
       <Footer />
